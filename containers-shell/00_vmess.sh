@@ -168,7 +168,7 @@ generate_config() {
                     "domain:auth.openai.com",
                     "domain:chat.openai.com"
                 ],
-                "outboundTag":"WARP"
+                "outboundTag":"direct"
             }
         ]
     }
