@@ -119,7 +119,7 @@ generate_config() {
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/vmess-argo"
+                    "path": "/vmess"
                 }
             }
         }
